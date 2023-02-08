@@ -16,7 +16,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
 
 ### 💾 Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
